@@ -39,7 +39,7 @@ function useAxios(){
     axios.get("https://dummyjson.com/carts")
     .then(res => {
         const fs = require('fs');
-        fs.writeFile(path(),JSON.stringify(res.data), (err) => {
+        fs.writeFile(path(),JSON.stringify(res.data,null,2), (err) => {
             if (err) throw err;
             console.log('saved');
         });

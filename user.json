@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "role": "admin",
+    "gender": "male",
+    "nationality": "China"
+  },
+  {
+    "id": 2,
+    "name": "Kris",
+    "role": "admin",
+    "gender": "male",
+    "nationality": "Singapore"
+  },
+  {
+    "id": "f9f0067d-03b3-4516-ad7f-8ecbf667d032",
+    "name": "Thanh",
+    "role": "client",
+    "gender": "female",
+    "nationality": "VietNam"
+  },
+  {
+    "id": "bcc1381e-c054-4194-bda8-315b4a356545",
+    "name": "Long",
+    "role": "admin",
+    "gender": "male",
+    "nationality": "China"
+  }
+]
